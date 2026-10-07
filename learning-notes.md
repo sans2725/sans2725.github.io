@@ -1,3 +1,9 @@
+---
+layout: default
+title: 网页开发学习笔记
+permalink: /learning-notes/
+---
+
 # 网页开发学习笔记
 
 这里记录我学习个人网站开发的过程。

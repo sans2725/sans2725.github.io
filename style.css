@@ -47,3 +47,39 @@ footer {
     margin: 24px auto;
   }
 }
+
+.button-link {
+  display: inline-block;
+  margin-top: 12px;
+  padding: 10px 16px;
+  color: white;
+  background-color: #2563eb;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.button-link:hover {
+  background-color: #1d4ed8;
+  transform: translateY(-2px);
+}
+
+.site-nav {
+  width: min(800px, calc(100% - 32px));
+  margin: 24px auto 0;
+}
+
+.site-nav a {
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.note-page {
+  width: min(800px, calc(100% - 32px));
+  margin: 24px auto 48px;
+  padding: 32px;
+  background-color: white;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+}
